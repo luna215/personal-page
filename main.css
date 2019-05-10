@@ -1,0 +1,11 @@
+body {
+    font-family: "Inconsolata", monospace;
+}
+
+.content {
+    text-align: center;
+}
+
+.content-title {
+    float: left;
+}
