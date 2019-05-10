@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Projects
 Check out the projects I have worked on
 
+- [Basta](https://github.com/luna215/basta) #Fullstack #socket.io #nodejs
 
 ### Markdown
 
