@@ -2,10 +2,27 @@ body {
     font-family: "Inconsolata", monospace;
 }
 
+.picture {
+    position: fixed;
+    top: 10%;
+    left: 10%;
+}
 .content {
     text-align: center;
+    margin: 0 50%;
+    color:#ae6f2f
+
 }
 
 .content-title {
     float: left;
+    margin-top: 1em
+}
+
+.hash {
+    color: #f6a90f;
+}
+
+.hash:hover {
+    color: yellow;
 }
