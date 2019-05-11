@@ -1,12 +1,21 @@
+html, body {
+    height: 100%;
+}
+
 body {
     font-family: "Inconsolata", monospace;
 }
+
 
 .picture {
     position: fixed;
     top: 10%;
     left: 10%;
+    margin: 0 auto;
+    background-color: red;
+
 }
+
 .content {
     text-align: center;
     margin: 0 50%;
@@ -25,4 +34,5 @@ body {
 
 .hash:hover {
     color: yellow;
+    cursor: pointer;
 }
