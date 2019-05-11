@@ -6,23 +6,40 @@ body {
     font-family: "Inconsolata", monospace;
 }
 
+.active {
+    border-bottom: 1px solid #f6a90f;
+}
 
 .picture {
     position: fixed;
-    top: 10%;
-    left: 10%;
+    top: 5%;
+    left: 5%;
     margin: 0 auto;
-
 }
 
-.content {
+.page {
+    margin-bottom: 0;
+    margin-right: 37%;
+    margin-left: 37%;
+    top: 25%;
+    position: absolute;
+}
+
+.projects-content {
+    display: none;
+}
+
+.contact-content {
+    display: none;
+}
+.right-side {
     text-align: center;
     margin: 0 50%;
     color:#ae6f2f
 
 }
 
-.content-title {
+.content {
     float: left;
     margin-top: 1em
 }
