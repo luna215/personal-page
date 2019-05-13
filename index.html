@@ -3,50 +3,34 @@
     <meta charset="UTF-8">
     <meta author="Paul Luna">
     <title>Personal Site</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="main.css">
 </head>
 <html>
     <body>
-        <div class="main container-fluid">
-            <div class="row">
-                <div class="col-5 picture">
-                    <img src="images/profilepic.jpg" width="75%" height="100%" title="Me in Teotihuacán, Mexico"/>
-                </div>
-                <div class="page">
-                    <h2><span class="hash">#</span>About</h2>
-                </div>
-                <div class="right-side col-6">
-                    <h1>PAUL LUNA</h1>
-                    <ul class="nav justify-content-center">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link about-page active">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link projects-page">Projects</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link contact-page">Contact</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="https://medium.com/@paulluna0215" class="nav-link">Blog</a>
-                        </li>
-                    </ul>
-                    <div class="content about-content">
-                        <h3>My name is Paul Luna...that's it, that's the website....Jk I'm still developing it.</h3>
-                    </div>
-                    <div class="content projects-content">
-                        <h3>Basta</h3>
-                    </div>
-                    <div class="content contact-content">
-                        <h3>Email: paulluna0215 [at] gmail [dot] com</h3>
-                        <h3></h3>
-                    </div>
-                </div>
-
+        <div class="wrapper">
+            <div class="picture">
+                <img src="images/profilepic.jpg" width="75%" height="100%" title="Me in Teotihuacán, Mexico"/>
+            </div>
+            <div class="header"><h1>
+                Paul Luna</h1>
+                <nav><ul>
+                <li><a class="about-page active" href="#">About</a></li>
+                <li><a class="projects-page" href="#">Projects</a></li>
+                <li><a class="contact-page" href="#">Contact</a></li>
+                <li><a href="https://medium.com/@paulluna0215">Blog</a></li>
+                </ul></nav>
+            </div>
+            <div class="page"><h1><span class="hash">#</span>About</h1></div>
+            <div class="page-content about-content">
+                <h3>My name is Paul Luna...that's it, that's the website....Jk I'm still developing it.</h3>
+            </div>
+            <div class="page-content projects-content">
+                <h3>Basta</h3>
+            </div>
+            <div class="page-content contact-content">
+                <h3>Email: paulluna0215 [at] gmail [dot] com</h3>
             </div>
         </div>
-
 
         <!-- Scripts-->
         <script

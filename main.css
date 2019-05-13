@@ -6,10 +6,6 @@ body {
     font-family: "Inconsolata", monospace;
 }
 
-.active {
-    border-bottom: 1px solid #f6a90f;
-}
-
 .picture {
     position: fixed;
     top: 5%;
@@ -32,6 +28,7 @@ body {
 .contact-content {
     display: none;
 }
+
 .right-side {
     text-align: center;
     margin: 0 50%;
@@ -40,7 +37,6 @@ body {
 }
 
 .content {
-    float: left;
     margin-top: 1em
 }
 
@@ -51,4 +47,68 @@ body {
 .hash:hover {
     color: yellow;
     cursor: pointer;
+}
+
+* {box-sizing: border-box;}
+.wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.wrapper > div {
+  border-radius: 5px;
+  padding: 1em;
+  color: #d9480f;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr) auto;
+  grid-gap: 5px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.picture {
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  margin: 0 auto;
+}
+
+.header {
+  grid-column: 3 / 5;
+  grid-row: 1;
+  text-align: center;
+  width: 100%;
+}
+
+.header > nav > ul {
+  list-style: none;
+  width: 100%;
+}
+
+.header > nav > ul > li {
+  display: inline;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.header > nav > ul > li > a {
+  text-decoration: none;
+}
+
+.active {
+  border-bottom: 1px solid #f6a90f;
+}
+
+.page-content {
+  grid-column: 3 / 5;
+  grid-row: 2 / 5;
+}
+
+.page {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
 }
