@@ -6,17 +6,10 @@ body {
     font-family: "Inconsolata", monospace;
 }
 
-.picture {
-    position: fixed;
-    top: 5%;
-    left: 5%;
-    margin: 0 auto;
-}
-
 .page {
     margin-bottom: 0;
-    margin-right: 37%;
-    margin-left: 37%;
+    margin-right: 30%;
+    margin-left: 30%;
     top: 25%;
     position: absolute;
 }
@@ -25,19 +18,12 @@ body {
     display: none;
 }
 
+.animations-content {
+  display: none;
+}
+
 .contact-content {
     display: none;
-}
-
-.right-side {
-    text-align: center;
-    margin: 0 50%;
-    color:#ae6f2f
-
-}
-
-.content {
-    margin-top: 1em
 }
 
 .hash {
@@ -112,3 +98,40 @@ body {
     grid-column: 2 / 3;
     grid-row: 2 / 3;
 }
+
+svg {
+  width: 300px;
+  align-self: center;
+  justify-self: center;
+  margin-left: 250px;
+}
+#logo {
+  opacity: 0;
+}
+
+svg:hover #logo {
+  animation-duration: 1.2s;
+  animation-name: animateLogo;
+  animation-iteration-count: infinite; 
+  animation-direction: alternate;
+  mix-blend-mode: overlay;
+}
+
+@keyframes animateLogo {
+  from {
+      transform: translateX(0) translateY(0);
+      opacity: 0; 
+  }
+  to {
+      transform: translateX(50px) translateY(-30px);
+      opacity: 1;
+  }
+
+}
+
+.st0{fill:#0990E2;}
+.st1{fill:#E2E2E2;}
+.st2{fill:#055485;}
+.st3{fill:#065E94;}
+.st4{fill:#E8E8E8;}
+.st5{fill:#999999;}

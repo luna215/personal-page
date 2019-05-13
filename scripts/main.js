@@ -19,6 +19,15 @@ $(document).ready(function(){
         $('.projects-content').css('display', 'block');
     });
 
+    $('.animations-page').click(function() {
+        $(`.${hasActive}-page`).removeClass('active');
+        $(`.${hasActive}-content`).css('display', 'none');
+        hasActive = 'animations';
+        $(this).addClass('active');
+        $('.page').html('<h2><span class="hash">#</span>Animations</h2>');
+        $('.animations-content').css('display', 'block');
+    });
+
     $('.contact-page').click(function() {
         $(`.${hasActive}-page`).removeClass('active');
         $(`.${hasActive}-content`).css('display', 'none');
