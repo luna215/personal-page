@@ -253,7 +253,7 @@ svg:hover #logo {
 	}
 	
 	10% {
-		transform: translateY(-10vh) translateX(10vw) scale(0.2);
+		transform: translateY(-5vh) translateX(10vw) scale(0.2);
   }
   
 	20% {
@@ -261,11 +261,11 @@ svg:hover #logo {
 	}
 
   30% {
-		transform: translateY(0vh) translateX(50vw) scale(0.2);
+		transform: translateY(-10vh) translateX(50vw) scale(0.2);
 	}
 	
 	40% {
-		transform: translateY(5vh) translateX(70vw) scale(0.2);
+		transform: translateY(0vh) translateX(70vw) scale(0.2);
 	}
 	
 	50% {
@@ -309,18 +309,6 @@ svg:hover #logo {
 	}
 	
 	60% {
-		transform: translateY(0vh) translateX(110vw) scale(0.2);
-  }
-  
-  70% {
-    transform: translateY(0vh) translateX(110vw) scale(0.2);
-  }
-  
-  80% {
-		transform: translateY(0vh) translateX(110vw) scale(0.2);
-  }
-
-  90% {
 		transform: translateY(0vh) translateX(110vw) scale(0.2);
   }
 
