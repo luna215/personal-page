@@ -9,6 +9,7 @@ html {
 html, body {
   height: 100%;
   width: 100%;
+  padding: 0;
 }
 
 body {
@@ -21,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: ;
+  color: #379683;
 }
 
 .page {
@@ -324,7 +325,7 @@ svg:hover #logo {
   }
 
 	100% {
-		transform: translateY(0vh) translateX(110vw) scale(0.2);
+		transform: translateY(0vh) translateX(110vw) scale(0);
 	}
 	
 }
