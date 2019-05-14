@@ -9,7 +9,7 @@
     <body>
         <div class="wrapper">
             <div class="picture">
-                <img src="images/profilepic.jpg" width="75%" height="100%" title="Me in Teotihuacán, Mexico"/>
+                <!-- <img src="images/profilepic.jpg" width="75%" height="100%" title="Me in Teotihuacán, Mexico"/> -->
             </div>
             <div class="header"><h1>
                 Paul Luna</h1>
@@ -21,7 +21,16 @@
                 <li><a href="https://medium.com/@paulluna0215">Blog</a></li>
                 </ul></nav>
             </div>
-            <div class="page"><h1><span class="hash">#</span>About</h1></div>
+            <div class="page">
+                <h1><span class="hash">#</span>About</h1>
+            </div>
+            <div class="bird-container bird-container--one">
+                <div class="bird bird--one"></div>
+            </div>
+                
+            <div class="bird-container-two bird-container--two">
+                <div class="bird bird--two"></div>
+            </div>
             <div class="page-content about-content">
                 <h3>
                     My name is Paul and I'm currently a Software Developer 
@@ -30,22 +39,24 @@
                 </h3>
             </div>
             <div class="page-content projects-content">
-                <h3>Basta</h3>
+                <h3>Basta (React, Express, Socket.io, Node.js)</h3><p>- https://github.com/luna215/basta (demo coming soon)</p>
+                <h3>Chat Application (jQuery, Express, Socket.io, Node.js)</h3><p>- https://safe-fjord-54219.herokuapp.com/</p>
+                <h3>Meme Generator (Angular, Firebase, Express, Node.js)</h3><p>- https://meme-master-9f61f.firebaseapp.com/</p>
             </div>
             <div class="page-content animations-content">
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                     viewBox="0 0 311.1 374.2" style="enable-background:new 0 0 311.1 374.2;" xml:space="preserve">
    
-               <g id="browser">
-                   <g>
-                       <path class="st0" d="M288.2,170.3c4.7,2.7,8.5,9.3,8.5,14.7l-0.5,175.6c0,5.4-3.9,7.6-8.5,4.9L12.6,206.7
-                           c-4.7-2.7-8.5-9.3-8.5-14.7L4.6,16.4c0-5.4,3.9-7.6,8.5-4.9L288.2,170.3z M210.7,268.4l0.1-18.3c0-6.4-4.5-14.3-10-17.5
-                           l-18.5-10.7l0.1-25.8c0-6.4-4.5-14.3-10-17.5l-27.9-16.1l0-11.4c0-6.4-4.5-14.3-10-17.5l-34.2-19.7c-5.5-3.2-10.1-0.5-10.1,5.9
-                           l-0.1,22.7c0,6.4,4.5,14.3,10,17.5l11.1,6.4l-0.1,23.6c0,6.4,4.5,14.3,10,17.5l32.4,18.7l0,9.2c0,6.4,4.5,14.3,10,17.5l37,21.4
-                           C206.1,277.5,210.6,274.9,210.7,268.4 M286.9,189.6l0-6.7c0-1.8-1.3-4.1-2.9-5L41.5,37.8c-1.6-0.9-2.9-0.2-2.9,1.7l0,6.7
-                           c0,1.8,1.3,4.1,2.9,5L284,191.3C285.6,192.2,286.9,191.5,286.9,189.6 M32.5,41.7l0-4.7c0-2.4-1.7-5.3-3.8-6.5l-9.2-5.3
-                           c-2.1-1.2-3.8-0.2-3.8,2.2l0,4.7c0,2.4,1.7,5.3,3.8,6.5l9.2,5.3C30.8,45.1,32.5,44.1,32.5,41.7"/>
-                   </g>
+                    <g id="browser">
+                        <g>
+                            <path class="st0" d="M288.2,170.3c4.7,2.7,8.5,9.3,8.5,14.7l-0.5,175.6c0,5.4-3.9,7.6-8.5,4.9L12.6,206.7
+                                c-4.7-2.7-8.5-9.3-8.5-14.7L4.6,16.4c0-5.4,3.9-7.6,8.5-4.9L288.2,170.3z M210.7,268.4l0.1-18.3c0-6.4-4.5-14.3-10-17.5
+                                l-18.5-10.7l0.1-25.8c0-6.4-4.5-14.3-10-17.5l-27.9-16.1l0-11.4c0-6.4-4.5-14.3-10-17.5l-34.2-19.7c-5.5-3.2-10.1-0.5-10.1,5.9
+                                l-0.1,22.7c0,6.4,4.5,14.3,10,17.5l11.1,6.4l-0.1,23.6c0,6.4,4.5,14.3,10,17.5l32.4,18.7l0,9.2c0,6.4,4.5,14.3,10,17.5l37,21.4
+                                C206.1,277.5,210.6,274.9,210.7,268.4 M286.9,189.6l0-6.7c0-1.8-1.3-4.1-2.9-5L41.5,37.8c-1.6-0.9-2.9-0.2-2.9,1.7l0,6.7
+                                c0,1.8,1.3,4.1,2.9,5L284,191.3C285.6,192.2,286.9,191.5,286.9,189.6 M32.5,41.7l0-4.7c0-2.4-1.7-5.3-3.8-6.5l-9.2-5.3
+                                c-2.1-1.2-3.8-0.2-3.8,2.2l0,4.7c0,2.4,1.7,5.3,3.8,6.5l9.2,5.3C30.8,45.1,32.5,44.1,32.5,41.7"/>
+                        </g>
                    <g>
                        <path class="st1" d="M28.7,30.5c2.1,1.2,3.8,4.1,3.8,6.5l0,4.7c0,2.4-1.7,3.4-3.8,2.2l-9.2-5.3c-2.1-1.2-3.8-4.1-3.8-6.5l0-4.7
                            c0-2.4,1.7-3.4,3.8-2.2L28.7,30.5z"/>

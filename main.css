@@ -1,21 +1,40 @@
+html {
+  background: url(./images/forest-background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 html, body {
-    height: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 body {
-    font-family: "Inconsolata", monospace;
+  font-family: "Inconsolata", monospace;
+  color: #EDF5E1;
+}
+
+a {
+  color: #05386B;
+}
+
+a:hover {
+  color: ;
 }
 
 .page {
-    margin-bottom: 0;
-    margin-right: 30%;
-    margin-left: 30%;
-    top: 25%;
-    position: absolute;
+  margin-bottom: 0;
+  margin-right: 30%;
+  margin-left: 30%;
+  top: 25%;
+  position: absolute;
+  color: #EDF5E1;
 }
 
 .projects-content {
-    display: none;
+  display: none;
 }
 
 .animations-content {
@@ -23,28 +42,30 @@ body {
 }
 
 .contact-content {
-    display: none;
+  display: none;
 }
 
 .hash {
-    color: #f6a90f;
+  color: #EDF5E1;
 }
 
 .hash:hover {
-    color: yellow;
-    cursor: pointer;
+  color: #8ee4aF;
+  cursor: pointer;
 }
 
-* {box-sizing: border-box;}
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
   max-width: 100%;
   margin: 0 auto;
 }
 
-.wrapper > div {
+.wrapper>div {
   border-radius: 5px;
   padding: 1em;
-  color: #d9480f;
 }
 
 .wrapper {
@@ -70,23 +91,23 @@ body {
   width: 100%;
 }
 
-.header > nav > ul {
+.header>nav>ul {
   list-style: none;
   width: 100%;
 }
 
-.header > nav > ul > li {
+.header>nav>ul>li {
   display: inline;
   margin: 0 auto;
   padding: 0 1em;
 }
 
-.header > nav > ul > li > a {
+.header>nav>ul>li>a {
   text-decoration: none;
 }
 
 .active {
-  border-bottom: 1px solid #f6a90f;
+  border-bottom: 1px solid #EDF5E1;
 }
 
 .page-content {
@@ -95,8 +116,8 @@ body {
 }
 
 .page {
-    grid-column: 2 / 3;
-    grid-row: 2 / 3;
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
 }
 
 svg {
@@ -104,7 +125,12 @@ svg {
   align-self: center;
   justify-self: center;
   margin-left: 250px;
+  padding: 0 1em;
+  background-color: #05386B;
+  border-radius: 2%;
+  box-shadow: 2px 2px 10px black;
 }
+
 #logo {
   opacity: 0;
 }
@@ -112,26 +138,181 @@ svg {
 svg:hover #logo {
   animation-duration: 1.2s;
   animation-name: animateLogo;
-  animation-iteration-count: infinite; 
+  animation-iteration-count: infinite;
   animation-direction: alternate;
   mix-blend-mode: overlay;
 }
 
 @keyframes animateLogo {
   from {
-      transform: translateX(0) translateY(0);
-      opacity: 0; 
+    transform: translateX(0) translateY(0);
+    opacity: 0;
   }
   to {
-      transform: translateX(50px) translateY(-30px);
-      opacity: 1;
+    transform: translateX(50px) translateY(-30px);
+    opacity: 1;
   }
-
 }
 
-.st0{fill:#0990E2;}
-.st1{fill:#E2E2E2;}
-.st2{fill:#055485;}
-.st3{fill:#065E94;}
-.st4{fill:#E8E8E8;}
-.st5{fill:#999999;}
+.st0 {
+  fill: #0990E2;
+}
+
+.st1 {
+  fill: #E2E2E2;
+}
+
+.st2 {
+  fill: #055485;
+}
+
+.st3 {
+  fill: #065E94;
+}
+
+.st4 {
+  fill: #E8E8E8;
+}
+
+.st5 {
+  fill: #999999;
+}
+
+
+.bird-container {
+	position: absolute;
+	top: 20%;
+	left: -10%;
+	transform: scale(0) translateX(-10vw);
+	will-change: transform;
+	
+	animation-name: fly-right-one;
+	animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  
+}
+
+.bird-container-two {
+	position: absolute;
+	top: 20%;
+	left: -10%;
+	transform: scale(0) translateX(-10vw);
+	will-change: transform;
+	
+	animation-name: fly-right-one;
+	animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  
+}
+
+.bird-container--one {
+  animation-duration: 20s;
+	animation-delay: 0;
+}
+
+.bird-container--two {
+  animation-duration: 21s;
+	animation-delay: 1s;
+}
+
+.bird {
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells.svg);
+	background-size: auto 100%;
+	width: 88px;
+	height: 125px;
+	will-change: background-position;
+	
+	animation-name: fly-cycle;
+	animation-timing-function: steps(10);
+	animation-iteration-count: infinite;
+}
+
+.bird--one {
+  animation-duration: 1s;
+	animation-delay: -0.5s;	
+}
+
+.bird--two {
+  animation-duration: 0.9s;
+	animation-delay: -0.75s;
+}
+
+@keyframes fly-cycle {
+	
+	100% {
+		background-position: -900px 0;
+	}
+	
+}
+
+@keyframes fly-right-one {
+	
+	0% {
+		transform: scale(0.3) translateX(-10vw);
+	}
+	
+	10% {
+		transform: translateY(2vh) translateX(10vw) scale(0.4);
+	}
+	
+	20% {
+		transform: translateY(0vh) translateX(30vw) scale(0.5);
+	}
+	
+	30% {
+		transform: translateY(4vh) translateX(50vw) scale(0.6);
+	}
+	
+	40% {
+		transform: translateY(2vh) translateX(70vw) scale(0.6);
+	}
+	
+	50% {
+		transform: translateY(0vh) translateX(90vw) scale(0.6);
+	}
+	
+	60% {
+		transform: translateY(0vh) translateX(110vw) scale(0.6);
+	}
+	
+	100% {
+		transform: translateY(0vh) translateX(110vw) scale(0.6);
+	}
+	
+}
+
+@keyframes fly-right-two {
+	
+	0% {
+		transform: translateY(-2vh) translateX(-10vw) scale(0.5);
+	}
+	
+	10% {
+		transform: translateY(0vh) translateX(10vw) scale(0.4);
+	}
+	
+	20% {
+		transform: translateY(-4vh) translateX(30vw) scale(0.6);
+	}
+	
+	30% {
+		transform: translateY(1vh) translateX(50vw) scale(0.45);
+	}
+	
+	40% {
+		transform: translateY(-2.5vh) translateX(70vw) scale(0.5);
+	}
+	
+	50% {
+		transform: translateY(0vh) translateX(90vw) scale(0.45);
+	}
+	
+	51% {
+		transform: translateY(0vh) translateX(110vw) scale(0.45);
+	}
+	
+	100% {
+		transform: translateY(0vh) translateX(110vw) scale(0.45);
+	}
+	
+}
