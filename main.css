@@ -112,7 +112,7 @@ a:hover {
 }
 
 .page-content {
-  grid-column: 3 / 5;
+  grid-column: 2 / 4;
   grid-row: 2 / 5;
 }
 
@@ -125,18 +125,17 @@ svg {
   width: 300px;
   align-self: center;
   justify-self: center;
-  margin-left: 250px;
   padding: 0 1em;
   background-color: #05386B;
   border-radius: 2%;
   box-shadow: 2px 2px 10px black;
 }
 
-#logo {
+.logo {
   opacity: 0;
 }
 
-svg:hover #logo {
+svg:hover .logo {
   animation-duration: 1.2s;
   animation-name: animateLogo;
   animation-iteration-count: infinite;
@@ -316,4 +315,13 @@ svg:hover #logo {
 		transform: translateY(0vh) translateX(110vw) scale(0);
 	}
 	
+}
+
+.horizontal-stack > li {
+  display: inline;
+}
+
+.list-item {
+  background-color:#05386B;
+  width: 50%;
 }
