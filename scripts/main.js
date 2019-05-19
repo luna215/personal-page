@@ -25,11 +25,11 @@ $(document).ready(function(){
         $('.animations-content').css('display', 'block');
     });
 
-    $('.contact-page').click(function() {
+    $('.socials-page').click(function() {
         $(`.${hasActive}-page`).removeClass('active');
         $(`.${hasActive}-content`).css('display', 'none');
-        hasActive = 'contact';
+        hasActive = 'socials';
         $(this).addClass('active');
-        $('.contact-content').css('display', 'block');
+        $('.socials-content').css('display', 'block');
     });
 });
