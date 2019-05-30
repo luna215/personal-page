@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #05386B;
+  color: #EDF5E1;
   text-decoration: none;
 }
 
@@ -35,7 +35,47 @@ a:hover {
   color: #EDF5E1;
 }
 
+.about-content {
+  text-align: center;
+}
+
+.description {
+  font-size: 2em;
+}
+
+.learn-more-button {
+  margin: 5em;
+}
+
+.learn-more-content {
+  display: none;
+}
+
+.button { 
+  text-align: center;
+}
+
+.button>a { 
+  padding: 20px 30px;
+  font-size: 1em;
+  border-radius: 50px;
+  text-align: center;
+  background-color: #05386B;
+  color: #EDF5E1;
+}
+
+.button>a:hover { 
+  padding: 20px 30px;
+  font-size: 1em;
+  border-radius: 50px;
+  text-align: center;
+  background-color: #EDF5E1;
+  color: #05386B;
+}
+
 .projects-content {
+  text-align: center;
+  font-size: 2.5em;
   display: none;
 }
 
@@ -93,6 +133,10 @@ a:hover {
   width: 100%;
 }
 
+ul.horizontal-stack {
+  margin: auto;
+}
+
 .header>nav>ul {
   list-style: none;
   width: 100%;
@@ -119,7 +163,7 @@ a:hover {
 }
 
 .page-content {
-  grid-column: 2 / 4;
+  grid-column: 1 / 5;
   grid-row: 2 / 5;
 }
 
@@ -128,14 +172,52 @@ a:hover {
   grid-row: 2 / 3;
 }
 
-svg {
+.projects {
   width: 300px;
+  height: 350px;
   align-self: center;
   justify-self: center;
   padding: 0 1em;
   background-color: #05386B;
   border-radius: 2%;
   box-shadow: 2px 2px 10px black;
+}
+
+.fa-arrow-left {
+  position: absolute;
+  color: #EDF5E1;
+  font-size: 3em;
+  
+}
+.fa-arrow-left:hover {
+  cursor: pointer;
+  position: absolute;
+  color: grey;
+  font-size: 3em;
+  
+}
+
+.LA {
+  width: 75%;
+}
+
+.LA-silhoutte {
+  width: 25%;
+}
+
+#Front-buildings {
+  fill: black;
+}
+
+#Back-buildings {
+  fill:#818285;
+}
+
+.title {
+  position: absolute;
+  margin-top:10%;
+  margin-left: 30%;
+ font-size: 5em;
 }
 
 .logo {
@@ -195,7 +277,7 @@ svg:hover .logo {
 	
 	animation-name: fly-right-one;
 	animation-timing-function: linear;
-  animation-iteration-count: infinite;
+  animation-iteration-count: 2;
   
 }
 
@@ -208,7 +290,7 @@ svg:hover .logo {
 	
 	animation-name: fly-right-two;
 	animation-timing-function: linear;
-  animation-iteration-count: infinite;
+  animation-iteration-count: 2;
   
 }
 

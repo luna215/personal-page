@@ -32,6 +32,21 @@ $(document).ready(function(){
         $(this).addClass('active');
         $('.socials-content').css('display', 'block');
     });
+
+    $('.learn-more-button').click(function() {
+        // $('.description').hide('slide',{direction:'left'},1000);
+        // $('.learn-more-button').hide('slide',{direction:'left'},1000);
+        // $('.learn-more-content').show('slide', {direction: 'left'}, 1000);
+        $('.description').slideToggle('slow');
+        $('.learn-more-button').slideToggle('slow');
+        $('.learn-more-content').slideToggle('slow');
+    });
+
+    $('.fa-arrow-left').click(function() {
+        $('.description').slideToggle('slow');
+        $('.learn-more-button').slideToggle('slow');
+        $('.learn-more-content').slideToggle('slow');
+    })
 });
 
 var TxtType = function(el, toRotate, period) {

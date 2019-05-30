@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F7C9;}
+	.st1{fill:#382A47;stroke:#000000;stroke-width:17;stroke-miterlimit:10;}
+	.st2{fill:#AA3131;}
+	.st3{fill:#E6E6E6;}
+	.st4{fill:#382A47;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#E74C47;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{clip-path:url(#SVGID_2_);}
+</style>
+<symbol  id="rocket-smoke" viewBox="-43.5 -43.5 87 87">
+	<circle class="st0" cx="0" cy="0" r="43.5"/>
+</symbol>
+<circle class="st1" cx="640" cy="570.6" r="431.1"/>
+<g>
+	<path class="st0" d="M771.7,767.7c-76.8,47.2-166.6,46-242.1-3.4c27.1-36.1,70.5-63.3,75.6-111.3c28.7-1,57.4-2.4,86.1-3.4
+		C696.4,700.5,743.1,729.4,771.7,767.7z"/>
+</g>
+<g id="XMLID_1_">
+	<g>
+		<path class="st2" d="M896.2,647.5c0,23.7-3.4,46.6-9.6,68.3c-19.3-67.1-66.2-122.4-127.7-152.8c15.8-32.5,29.4-70.4,37.4-113.8
+			C856.9,494.1,896.2,566.2,896.2,647.5z"/>
+		<path class="st3" d="M803.9,365.1c0,30-2.8,58-7.6,84.1c-41-30.4-91.8-48.4-146.7-48.4s-105.7,18-146.7,48.4
+			c-4.8-26.1-7.6-54.1-7.6-84.1c0-73.1,16.5-134.8,38.8-184.6c5.6-12.6,11.7-24.5,17.9-35.6l8.4-1.7c27.9-5.8,57.9-8.7,89.2-8.7
+			c31.4,0,61.4,2.9,89.2,8.7l8.4,1.7c6.2,11.1,12.2,23,17.9,35.6C787.3,230.3,803.9,291.9,803.9,365.1z M732.6,297
+			c0-45.8-37.2-83-83-83s-83,37.3-83,83c0,45.8,37.2,83,83,83S732.6,342.8,732.6,297z"/>
+		<path class="st3" d="M796.3,449.2c-8,43.3-21.6,81.3-37.4,113.8c-21.5-10.7-44.8-18.3-69.3-22.3c-8.1-50.4-30.4-85.6-40-99.5
+			c-9.7,13.9-31.9,49-40,99.5c-24.5,4-47.8,11.6-69.3,22.3c-15.8-32.5-29.4-70.4-37.4-113.8c41-30.4,91.8-48.4,146.7-48.4
+			S755.3,418.8,796.3,449.2z"/>
+		<path class="st4" d="M747.2,144.9l-8.4-1.7c-27.9-5.8-57.9-8.7-89.2-8.7c-31.4,0-61.4,2.9-89.2,8.7l-8.4,1.7
+			c2.1-3.8,4.3-7.5,6.4-11.2c27.5-5.7,58.4-8.9,91.2-8.9s63.7,3.2,91.2,8.9C742.9,137.3,745,141,747.2,144.9z"/>
+		<path class="st2" d="M736.1,126.2c1.5,2.4,3,4.9,4.6,7.5c-27.5-5.7-58.4-8.9-91.2-8.9l1.6-97.8c0.1,0.1,0.2,0.2,0.3,0.2
+			c0.1,0.1,0.2,0.2,0.3,0.3c0.5,0.4,1,0.8,1.6,1.3c0.2,0.2,0.5,0.4,0.7,0.6c0.6,0.5,1.2,1,1.8,1.5c0.4,0.4,0.9,0.8,1.3,1.2
+			c1.6,1.4,3.5,3.1,5.6,4.9c0.7,0.6,1.4,1.3,2.2,2c0.5,0.5,1,0.9,1.5,1.4c0.7,0.7,1.5,1.4,2.3,2.2c1.8,1.7,3.6,3.5,5.6,5.5l1.3,1.3
+			c0.6,0.6,1.2,1.2,1.8,1.8c1,1,2,2,3,3.1c0.3,0.3,0.5,0.5,0.8,0.8c0.6,0.7,1.3,1.3,1.9,2c0.2,0.2,0.3,0.4,0.5,0.5
+			c0.5,0.5,0.9,1,1.4,1.5c0.1,0.2,0.3,0.3,0.5,0.5c0.5,0.5,1,1.1,1.5,1.6c0.7,0.8,1.5,1.6,2.2,2.5c1,1.1,1.9,2.1,2.9,3.2
+			c1.2,1.4,2.5,2.8,3.7,4.3c0.5,0.6,1,1.2,1.6,1.8c1.5,1.8,3.1,3.7,4.7,5.6c0.7,0.9,1.5,1.8,2.2,2.7c1.5,1.9,3.1,3.8,4.6,5.8
+			c0.7,0.9,1.4,1.8,2.2,2.8c0.4,0.5,0.8,1,1.1,1.5c0.4,0.5,0.8,1,1.1,1.5c3.1,4.2,6.3,8.5,9.5,13.1c0.7,1,1.4,2,2,2.9
+			c0.8,1.1,1.5,2.3,2.3,3.4c0.7,1,1.4,2.1,2.1,3.1c0.9,1.4,1.8,2.8,2.7,4.1c0.3,0.5,0.7,1.1,1.1,1.6c0.4,0.5,0.7,1.1,1.1,1.7
+			c0,0,0,0,0,0.1c0,0.1,0.1,0.1,0.1,0.2C734.9,124.2,735.5,125.1,736.1,126.2C736.1,126.1,736.1,126.2,736.1,126.2z"/>
+		<path class="st5" d="M736.1,126.1c-0.6-1-1.2-1.9-1.8-2.9C734.9,124.2,735.5,125.1,736.1,126.1z"/>
+		<path class="st5" d="M734.1,123c-0.3-0.6-0.7-1.1-1.1-1.7C733.4,121.9,733.8,122.4,734.1,123z"/>
+		<path class="st5" d="M727.2,112.4c-0.8-1.1-1.5-2.3-2.3-3.4C725.7,110.1,726.4,111.3,727.2,112.4z"/>
+		<path class="st5" d="M724.9,109c-0.7-1-1.4-2-2-2.9C723.5,107,724.2,108,724.9,109z"/>
+		<path class="st3" d="M758.9,562.9c-11.4,23.5-24,44.1-36.5,61.8c-1.8-0.4-3.7-0.8-5.6-1.2v-17.8H691c1-8.7,1.6-17.8,1.6-27.3
+			c0-13.4-1.1-26-3-37.8C714.1,544.7,737.4,552.3,758.9,562.9z"/>
+		<path class="st4" d="M716.8,623.6v30.6h-36.5c3.5-10.6,6.6-22.3,8.8-35C698.6,620.3,707.9,621.8,716.8,623.6z"/>
+		<path class="st3" d="M716.8,605.8v17.8c-8.9-1.8-18.2-3.3-27.7-4.3c0.8-4.4,1.4-8.9,2-13.5H716.8z"/>
+		<path class="st5" d="M712.2,91.5c-0.4-0.5-0.8-1-1.1-1.5C711.4,90.5,711.8,91,712.2,91.5z"/>
+		<path class="st6" d="M649.5,213.9c45.8,0,83,37.3,83,83c0,45.8-37.2,83-83,83s-83-37.3-83-83C566.5,251.2,603.7,213.9,649.5,213.9
+			z M722.9,297c0-40.6-32.9-73.4-73.4-73.4c-40.5,0-73.4,32.9-73.4,73.4c0,40.5,32.9,73.4,73.4,73.4
+			C690.1,370.4,722.9,337.5,722.9,297z"/>
+		<path class="st4" d="M649.5,223.6c40.5,0,73.4,32.9,73.4,73.4c0,40.5-32.9,73.4-73.4,73.4c-40.5,0-73.4-32.9-73.4-73.4
+			C576.1,256.4,609,223.6,649.5,223.6z"/>
+		<path class="st5" d="M697.4,73.1c-0.5-0.6-1-1.2-1.6-1.8C696.3,71.8,696.9,72.5,697.4,73.1z"/>
+		<path class="st2" d="M692.6,578.5c0,9.5-0.6,18.6-1.6,27.3h-41.5v-68.3c13.6,0,27,1.1,40,3.2C691.5,552.5,692.6,565.1,692.6,578.5
+			z"/>
+		<path class="st2" d="M649.5,605.8H691c-0.5,4.6-1.2,9.1-2,13.5c-12.7-1.4-26-2.2-39.6-2.2V605.8z"/>
+		<path class="st2" d="M649.5,617.1c13.6,0,26.8,0.8,39.6,2.2c-2.2,12.7-5.3,24.4-8.8,35h-30.7V617.1z"/>
+		<path class="st2" d="M649.5,654.2h30.7c-10.1,30.2-23.7,51.5-30.7,61.5V654.2z"/>
+		<path class="st2" d="M649.5,441.2c9.7,13.9,31.9,49,40,99.5c-13-2.1-26.4-3.2-40-3.2V441.2z"/>
+		<path class="st5" d="M666.5,40.4c0.7,0.7,1.5,1.4,2.3,2.2C668,41.9,667.2,41.1,666.5,40.4z"/>
+		<path class="st5" d="M665,39c-0.8-0.7-1.5-1.4-2.2-2C663.5,37.6,664.2,38.3,665,39z"/>
+		<path class="st5" d="M655.9,30.9c0.4,0.4,0.9,0.8,1.3,1.2C656.8,31.7,656.3,31.3,655.9,30.9z"/>
+		<path class="st5" d="M651.4,27.2c-0.1-0.1-0.2-0.2-0.3-0.2v0C651.2,27,651.3,27.1,651.4,27.2z"/>
+		<path class="st6" d="M651.1,26.9L651.1,26.9l-1.6,97.8c-32.8,0-63.7,3.2-91.2,8.9c1.5-2.5,3-5,4.6-7.5c0,0,0-0.1,0.1-0.1
+			c0.6-1,1.2-1.9,1.8-2.9c0-0.1,0.1-0.1,0.1-0.2c0,0,0,0,0-0.1c0.3-0.6,0.7-1.1,1.1-1.7c0.4-0.6,0.7-1.1,1.1-1.6
+			c0.9-1.4,1.8-2.8,2.7-4.1c0.7-1,1.4-2.1,2.1-3.1c0.8-1.1,1.5-2.3,2.3-3.4c0.7-1,1.4-2,2-2.9c3.2-4.6,6.4-8.9,9.5-13.1
+			c0.4-0.5,0.8-1,1.1-1.5c0.4-0.5,0.8-1,1.1-1.5c0.7-0.9,1.4-1.9,2.2-2.8c1.5-2,3.1-3.9,4.6-5.8c0.7-0.9,1.5-1.8,2.2-2.7
+			c1.6-1.9,3.1-3.8,4.7-5.6c0.5-0.6,1-1.2,1.6-1.8c1.3-1.5,2.5-2.9,3.7-4.3c1-1.1,1.9-2.2,2.9-3.2c0.8-0.8,1.5-1.7,2.2-2.5
+			c0.5-0.5,1-1.1,1.5-1.6c0.2-0.2,0.3-0.3,0.5-0.5c0.5-0.5,0.9-1,1.4-1.5c0.2-0.2,0.3-0.4,0.5-0.5c0.7-0.7,1.3-1.4,1.9-2
+			c0.3-0.3,0.5-0.5,0.8-0.8c1-1.1,2-2.1,3-3.1c0.6-0.6,1.2-1.3,1.8-1.8l1.3-1.3c2-2,3.8-3.8,5.6-5.5c0.8-0.8,1.6-1.5,2.3-2.2
+			c0.5-0.5,1-1,1.5-1.4c0.8-0.7,1.5-1.4,2.2-2c2-1.9,3.9-3.5,5.6-4.9c0.5-0.4,0.9-0.8,1.3-1.2c0.7-0.5,1.3-1.1,1.8-1.5
+			c0.3-0.2,0.5-0.4,0.7-0.6c0.6-0.5,1.1-0.9,1.6-1.3c0.2-0.2,0.4-0.3,0.6-0.5c0.2-0.2,0.4-0.3,0.6-0.5c0.3-0.2,0.5-0.4,0.7-0.6
+			c0.1-0.1,0.2-0.2,0.3-0.2c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.2,0.4,0.3,0.7,0.6C650.7,26.6,650.9,26.8,651.1,26.9z"/>
+		<path class="st5" d="M650.5,26.5c-0.3-0.2-0.5-0.4-0.7-0.6C650,26.1,650.3,26.3,650.5,26.5z"/>
+		<path class="st6" d="M649.5,654.2v61.5c-7-10.1-20.7-31.4-30.7-61.5H649.5z"/>
+		<path class="st6" d="M649.5,617.1v37.2h-30.7c-3.5-10.6-6.6-22.3-8.8-35C622.7,617.8,635.9,617.1,649.5,617.1z"/>
+		<path class="st6" d="M649.5,605.8v11.3c-13.6,0-26.8,0.8-39.6,2.2c-0.8-4.4-1.4-8.9-2-13.5H649.5z"/>
+		<path class="st6" d="M649.5,537.4v68.3H608c-1-8.7-1.6-17.8-1.6-27.3c0-13.4,1.1-26,3-37.8C622.5,538.5,635.9,537.4,649.5,537.4z"
+			/>
+		<path class="st6" d="M649.5,441.2v96.2c-13.6,0-27,1.1-40,3.2C617.6,490.3,639.9,455.1,649.5,441.2z"/>
+		<path class="st5" d="M648.5,26.5c0.3-0.2,0.5-0.4,0.7-0.6C649,26.1,648.8,26.3,648.5,26.5z"/>
+		<path class="st5" d="M643.2,30.9c-0.4,0.4-0.9,0.8-1.3,1.2C642.3,31.7,642.7,31.3,643.2,30.9z"/>
+		<path class="st5" d="M636.3,37c-0.7,0.6-1.4,1.3-2.2,2C634.8,38.3,635.6,37.6,636.3,37z"/>
+		<path class="st5" d="M632.6,40.4c-0.7,0.7-1.5,1.4-2.3,2.2C631.1,41.9,631.8,41.1,632.6,40.4z"/>
+		<path class="st4" d="M618.8,654.2h-36.5v-30.6c8.9-1.8,18.2-3.3,27.7-4.3C612.2,631.9,615.2,643.6,618.8,654.2z"/>
+		<path class="st3" d="M608,605.8c0.5,4.6,1.2,9.1,2,13.5c-9.6,1.1-18.8,2.5-27.7,4.3v-17.8H608z"/>
+		<path class="st3" d="M608,605.8h-25.8v17.8c-1.9,0.4-3.7,0.8-5.6,1.2c-12.4-17.7-25-38.3-36.5-61.8c21.5-10.7,44.8-18.3,69.3-22.3
+			c-1.9,11.8-3,24.4-3,37.8C606.5,588,607,597.1,608,605.8z"/>
+		<path class="st5" d="M603.2,71.2c-0.5,0.6-1,1.2-1.6,1.8C602.2,72.5,602.7,71.8,603.2,71.2z"/>
+		<path class="st5" d="M588,90c-0.4,0.5-0.8,1-1.1,1.5C587.2,91,587.6,90.5,588,90z"/>
+		<path class="st5" d="M576.2,106.1c-0.7,1-1.4,2-2,2.9C574.8,108,575.5,107,576.2,106.1z"/>
+		<path class="st5" d="M574.2,109c-0.8,1.1-1.5,2.3-2.3,3.4C572.6,111.3,573.4,110.1,574.2,109z"/>
+		<path class="st5" d="M566,121.3c-0.4,0.5-0.7,1.1-1.1,1.7C565.3,122.4,565.6,121.9,566,121.3z"/>
+		<path class="st5" d="M564.8,123.2c-0.6,1-1.2,1.9-1.8,2.9C563.6,125.1,564.2,124.2,564.8,123.2z"/>
+		<path class="st6" d="M502.8,449.2c8,43.3,21.6,81.3,37.4,113.8c-61.5,30.5-108.4,85.8-127.7,152.8c-6.2-21.7-9.6-44.6-9.6-68.3
+			C402.9,566.2,442.2,494.1,502.8,449.2z"/>
+	</g>
+	<g>
+		<path class="st7" d="M502.8,449.2c-60.6,44.9-99.9,117-99.9,198.3c0,23.7,3.4,46.6,9.6,68.3c19.3-67.1,66.2-122.4,127.7-152.8"/>
+		<path class="st7" d="M758.9,562.9c61.5,30.5,108.4,85.8,127.7,152.8c6.2-21.7,9.6-44.6,9.6-68.3c0-81.3-39.3-153.3-99.9-198.3"/>
+		<polyline class="st7" points="618.8,654.2 582.2,654.2 582.2,623.6 		"/>
+		<polyline class="st7" points="716.8,623.6 716.8,654.2 680.3,654.2 		"/>
+		<path class="st7" d="M610,619.3c-9.6,1.1-18.8,2.5-27.7,4.3c-1.9,0.4-3.7,0.8-5.6,1.2c-12.4-17.7-25-38.3-36.5-61.8
+			c-15.8-32.5-29.4-70.4-37.4-113.8c-4.8-26.1-7.6-54.1-7.6-84.1c0-73.1,16.5-134.8,38.8-184.6c5.6-12.6,11.7-24.5,17.9-35.6"/>
+		<path class="st7" d="M747.2,144.9c6.2,11.1,12.2,23,17.9,35.6c22.3,49.8,38.8,111.5,38.8,184.6c0,30-2.8,58-7.6,84.1
+			c-8,43.3-21.6,81.3-37.4,113.8c-11.4,23.5-24,44.1-36.5,61.8c-1.8-0.4-3.7-0.8-5.6-1.2c-8.9-1.8-18.2-3.3-27.7-4.3"/>
+		<path class="st7" d="M689.6,540.7c1.9,11.8,3,24.4,3,37.8c0,9.5-0.6,18.6-1.6,27.3c-0.5,4.6-1.2,9.1-2,13.5
+			c-2.2,12.7-5.3,24.4-8.8,35c-10.1,30.2-23.7,51.5-30.7,61.5c-7-10.1-20.7-31.4-30.7-61.5c-3.5-10.6-6.6-22.3-8.8-35
+			c-0.8-4.4-1.4-8.9-2-13.5c-1-8.7-1.6-17.8-1.6-27.3c0-13.4,1.1-26,3-37.8c8.1-50.4,30.4-85.6,40-99.5
+			C659.2,455.1,681.5,490.3,689.6,540.7z"/>
+		<path class="st7" d="M558.3,133.7c-2.2,3.6-4.3,7.4-6.4,11.2l8.4-1.7c27.9-5.8,57.9-8.7,89.2-8.7c31.4,0,61.4,2.9,89.2,8.7
+			l8.4,1.7c-2.1-3.8-4.3-7.5-6.4-11.2"/>
+		<path class="st7" d="M734.3,123.2c0.6,1,1.2,1.9,1.8,2.9"/>
+		<path class="st7" d="M733.1,121.3c0.4,0.5,0.7,1.1,1.1,1.7"/>
+		<path class="st7" d="M722.8,106.1c0.7,1,1.4,1.9,2,2.9c0.8,1.1,1.5,2.3,2.3,3.4"/>
+		<path class="st7" d="M711.1,90c0.4,0.5,0.8,1,1.1,1.5"/>
+		<path class="st7" d="M649.8,25.9c0.2,0.2,0.4,0.3,0.7,0.6"/>
+		<path class="st7" d="M648.5,26.5c0.3-0.2,0.5-0.4,0.7-0.6"/>
+		<path class="st7" d="M586.9,91.5c0.4-0.5,0.8-1,1.1-1.5"/>
+		<path class="st7" d="M571.9,112.4c0.8-1.1,1.5-2.3,2.3-3.4c0.7-1,1.4-2,2-2.9"/>
+		<path class="st7" d="M564.9,123c0.3-0.6,0.7-1.1,1.1-1.7"/>
+		<path class="st7" d="M563,126.1c0.6-1,1.2-1.9,1.8-2.9"/>
+		<path class="st7" d="M740.7,133.7c-27.5-5.7-58.4-8.9-91.2-8.9s-63.7,3.2-91.2,8.9c1.5-2.5,3-5,4.6-7.5c0,0,0-0.1,0.1-0.1
+			c0.6-1,1.2-1.9,1.8-2.9c0-0.1,0.1-0.1,0.1-0.2c0,0,0,0,0-0.1c0.3-0.6,0.7-1.1,1.1-1.7c0.4-0.6,0.7-1.1,1.1-1.6
+			c0.9-1.4,1.8-2.8,2.7-4.1c0.7-1,1.4-2.1,2.1-3.1c0.8-1.1,1.5-2.3,2.3-3.4c0.7-1,1.4-2,2-2.9c3.2-4.6,6.4-8.9,9.5-13.1
+			c0.4-0.5,0.8-1,1.1-1.5c0.4-0.5,0.8-1,1.1-1.5c0.7-0.9,1.4-1.9,2.2-2.8c1.5-2,3.1-3.9,4.6-5.8c0.7-0.9,1.5-1.8,2.2-2.7
+			c1.6-1.9,3.1-3.8,4.7-5.6c0.5-0.6,1-1.2,1.6-1.8c1.3-1.5,2.5-2.9,3.7-4.3c1-1.1,1.9-2.2,2.9-3.2c0.8-0.8,1.5-1.7,2.2-2.5
+			c0.5-0.5,1-1.1,1.5-1.6c0.2-0.2,0.3-0.3,0.5-0.5c0.5-0.5,0.9-1,1.4-1.5c0.2-0.2,0.3-0.4,0.5-0.5c0.7-0.7,1.3-1.4,1.9-2
+			c0.3-0.3,0.5-0.5,0.8-0.8c1-1.1,2-2.1,3-3.1c0.6-0.6,1.2-1.3,1.8-1.8l1.3-1.3c2-2,3.8-3.8,5.6-5.5c0.8-0.8,1.6-1.5,2.3-2.2
+			c0.5-0.5,1-1,1.5-1.4c0.8-0.7,1.5-1.4,2.2-2c2-1.9,3.9-3.5,5.6-4.9c0.5-0.4,0.9-0.8,1.3-1.2c0.7-0.5,1.3-1.1,1.8-1.5
+			c0.3-0.2,0.5-0.4,0.7-0.6c0.6-0.5,1.1-0.9,1.6-1.3c0.2-0.2,0.4-0.3,0.6-0.5c0.2-0.2,0.4-0.3,0.6-0.5c0.3-0.2,0.5-0.4,0.7-0.6
+			c0.1-0.1,0.2-0.2,0.3-0.2c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.2,0.4,0.3,0.7,0.6c0.2,0.1,0.4,0.3,0.6,0.5c0.1,0.1,0.2,0.2,0.3,0.3
+			c0.1,0.1,0.2,0.2,0.3,0.3c0.5,0.4,1,0.8,1.6,1.3c0.2,0.2,0.5,0.4,0.7,0.6c0.6,0.5,1.2,1,1.8,1.5c0.4,0.4,0.9,0.8,1.3,1.2
+			c1.6,1.4,3.5,3.1,5.6,4.9c0.7,0.6,1.4,1.3,2.2,2c0.5,0.5,1,0.9,1.5,1.4c0.7,0.7,1.5,1.4,2.3,2.2c1.8,1.7,3.6,3.5,5.6,5.5l1.3,1.3
+			c0.6,0.6,1.2,1.2,1.8,1.8c1,1,2,2,3,3.1c0.3,0.3,0.5,0.5,0.8,0.8c0.6,0.7,1.3,1.3,1.9,2c0.2,0.2,0.3,0.4,0.5,0.5
+			c0.5,0.5,0.9,1,1.4,1.5c0.1,0.2,0.3,0.3,0.5,0.5c0.5,0.5,1,1.1,1.5,1.6c0.7,0.8,1.5,1.6,2.2,2.5c1,1.1,1.9,2.1,2.9,3.2
+			c1.2,1.4,2.5,2.8,3.7,4.3c0.5,0.6,1,1.2,1.6,1.8c1.5,1.8,3.1,3.7,4.7,5.6c0.7,0.9,1.5,1.8,2.2,2.7c1.5,1.9,3.1,3.8,4.6,5.8
+			c0.7,0.9,1.4,1.8,2.2,2.8c0.4,0.5,0.8,1,1.1,1.5c0.4,0.5,0.8,1,1.1,1.5c3.1,4.2,6.3,8.5,9.5,13.1c0.7,1,1.4,2,2,2.9
+			c0.8,1.1,1.5,2.3,2.3,3.4c0.7,1,1.4,2.1,2.1,3.1c0.9,1.4,1.8,2.8,2.7,4.1c0.3,0.5,0.7,1.1,1.1,1.6c0.4,0.5,0.7,1.1,1.1,1.7
+			c0,0,0,0,0,0.1c0,0.1,0.1,0.1,0.1,0.2c0.6,1,1.2,1.9,1.8,2.9c0,0,0,0.1,0.1,0.1C737.7,128.6,739.2,131.1,740.7,133.7z"/>
+		<path class="st7" d="M649.5,380c-45.8,0-83-37.3-83-83c0-45.8,37.2-83,83-83s83,37.3,83,83C732.6,342.8,695.3,380,649.5,380z"/>
+		<path class="st7" d="M722.9,297c0,40.5-32.9,73.4-73.4,73.4c-40.5,0-73.4-32.9-73.4-73.4c0-40.6,32.9-73.4,73.4-73.4
+			C690.1,223.6,722.9,256.4,722.9,297z"/>
+		<polyline class="st7" points="651.1,26.9 651.1,27 649.5,124.8 		"/>
+		<polyline class="st7" points="649.5,441.2 649.5,537.4 649.5,605.8 649.5,617.1 649.5,654.2 649.5,715.8 		"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="640" cy="570.6" r="431.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st8">
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 601.2439 801.2292)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 593.5939 989.44)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 726.0464 1030.0349)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 814.592 1003.7121)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 851.1783 861.71)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 955.2651 863.841)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 853.8326 821.3573)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 962.5548 835.2834)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 1014.5828 819.9552)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 966.1566 800.4888)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 807.9053 898.02)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 719.2755 976.0324)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 591.197 895.221)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 550.0073 1003.2997)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 382.2891 786.1527)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 485.1538 788.3403)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 521.4492 893.4825)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 488.8902 985.5891)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 399.7075 938.0865)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 325.2398 861.8644)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 287.3841 838.5093)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 273.5516 772.7959)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 261.4389 807.1042)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 292.1415 888.8318)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 516.1068 945.5554)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 419.8195 867.8922)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 406.1473 817.014)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 551.9789 957.9575)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 562.2706 926.5157)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 643.8737 799.6589)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 613.4498 858.1201)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 634.8475 889.9836)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 613.4196 957.8077)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 624.6266 925.9493)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 645.8357 836.2845)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 621.1921 1028.916)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 585.6555 1032.5555)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 542.6836 783.3188)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 637.293 989.6058)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 674.1805 936.8577)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 661.2507 1046.5778)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 716.0743 938.7988)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 702.7484 816.4324)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 695.4955 851.3895)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 681.0087 886.8511)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 671.2903 971.0225)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 691.0161 1011.686)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 799.085 941.7523)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 934.0567 909.7224)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 967.1835 766.0592)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 891.2902 868.038)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 1011.1146 854.5506)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 927.4978 790.7773)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 947.5453 723.9608)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 968.4362 694.7852)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 1023.4389 757.3853)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 1015.1006 700.5709)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 879.1101 769.4672)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 898.7775 898.4171)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 985.0559 900.9041)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 761.7584 979.5276)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 567.2321 820.4446)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 562.8123 857.3405)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 425.5895 773.7904)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 477.8702 885.0104)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 458.4669 937.5784)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 360.9837 905.1779)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 309.8838 815.362)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 299.8798 736.593)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 312.9763 771.9793)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 334.4614 735.8433)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 910.8998 945.6531)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 873.8453 968.1778)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 862.4153 934.9481)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 813.1592 866.817)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 779.8443 828.4904)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 753.8226 862.5539)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 747.3306 800.9196)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 727.3143 904.1031)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 525.8862 836.7058)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 466.759 840.7334)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 382.6634 847.9717)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 841.1254 777.9833)" style="overflow:visible;"/>
+		
+			<use xlink:href="#rocket-smoke"  width="87" height="87" x="-43.5" y="-43.5" transform="matrix(1 0 0 -1 901.6343 834.1291)" style="overflow:visible;"/>
+	</g>
+</g>
+</svg>
