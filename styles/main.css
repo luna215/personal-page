@@ -200,6 +200,7 @@ div.more-content>h1 {
   grid-row: 1;
   text-align: center;
   width: 100%;
+  z-index: 1000;
 }
 
 ul.horizontal-stack {
