@@ -1,11 +1,16 @@
 html {
   background: url(../images/forest-background.png) no-repeat center center;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: 100%;
   width: 100%;
+}
+
+.headline {
+  visibility: none; 
 }
 
 html, body {
@@ -48,7 +53,15 @@ a:hover {
 }
 
 .learn-more-content {
-  display: none;
+  position: relative;
+  top: -45%;
+  left: 100%;
+  opacity: 0;
+}
+
+learn-more-content img{
+  left: 25%;
+  top: 25%;
 }
 
 .button { 
@@ -62,6 +75,30 @@ a:hover {
   text-align: center;
   background-color: #05386B;
   color: #EDF5E1;
+}
+
+.slide-intro-left {
+  transform: translate(-100%, 0%);
+  transition: 2s;
+  opacity: 0;
+}
+
+.slide-intro-right {
+  transform: translate(0, 100%);
+  transition: 2s;
+  opacity: 1;
+}
+
+.slide-more-content-left {
+  transform: translate(-100%, 0%);
+  transition: 2s;
+  opacity: 1;
+}
+
+.slide-more-content-right {
+  transform: translate(0%, 0%);
+  transition: 2s;
+  opacity: 0;
 }
 
 .button>a:hover { 
@@ -415,4 +452,41 @@ svg:hover .logo {
 .list-item {
   background-color:#05386B;
   width: 50%;
+}
+/* scroll mouse style*/
+
+.scroll-link {
+  position: relative;
+  bottom: -10rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mouse {
+  max-width: 2.5rem;
+  width: 100%;
+  height: auto;
+}
+
+/* scroll mouse animation*/
+@keyframes scroll {
+  0%, 20% {
+  transform: translateY(0) scaleY(1);
+  }
+  10% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(36px) scaleY(2);
+    opacity: 0.01;
+  }
+}
+
+.scroll {
+  animation-name: scroll;
+  animation-duration: 1.5s;
+  animation-timing-function: cubic-bezier(0.650, -0.550, 0.250, 1.500);
+  animation-iteration-count: infinite;
+  transform-origin: 50% 20.5px;
+  will-change: transform;
 }
